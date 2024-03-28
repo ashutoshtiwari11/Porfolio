@@ -1,0 +1,65 @@
+.map {
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+
+.contact-page {
+    display: flex;
+    flex-wrap: row wrap-reverse;
+}
+
+.contact-info {
+    font-size: large;
+    width: 50%;
+    margin: 3%;
+}
+
+.map-show {
+    margin: 3%;
+    height: 400px;
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+.half {
+    display: inline;
+
+    input {
+        width: 30%;
+        padding: 2%;
+        margin: 1%;
+        background-color: #0f2535;
+        border: solid;
+        border-color: #0f5c6b;
+    }
+}
+
+input,
+textarea {
+    padding: 2%;
+    width: 66%;
+    margin: 1%;
+    background-color: #0f2535;
+    border: solid;
+    border-color: #0f5c6b;
+    color: white;
+}
+
+.btn {
+    width: 30%;
+    font-size: medium;
+    min-width: 100px;
+}
+
+.header {
+    h1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

@@ -1,0 +1,44 @@
+.crimg {
+
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 80%;
+  height: 500px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  overflow-y: scroll;
+
+  img {
+    border: 2px solid wheat;
+    border-radius: 2%;
+  }
+
+}
+
+.critm {
+  border: 2px solid rgb(1, 1, 13);
+  border-radius: 3%;
+  box-shadow: 6px 0px 6px 8px whitesmoke inset;
+
+
+
+}
+
+.header {
+  h1 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.text-zone {
+  h1 {
+    padding: 0px;
+    margin: 0px;
+  }
+}

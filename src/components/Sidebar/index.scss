@@ -1,0 +1,22 @@
+.nav-bar{
+    background-color: #181818;
+    width: 60px;
+    height: 100%;
+    position: absolute;
+    
+} 
+nav{
+    svg {
+        color: #ffffff;
+      }
+    display: flex;
+    font-size: large;
+    flex-wrap: row wrap;
+    color: rgb(255, 208, 0);
+    padding: 3%;
+    margin: 2px;
+    justify-content: space-around;
+    
+      
+   
+}
